@@ -1,0 +1,5 @@
+[
+  { "id": "q1", "chapter": "life processes", "question": "Where does photosynthesis take place in a plant cell?", "options": ["Mitochondria", "Chloroplast", "Nucleus", "Ribosome"], "answer": "Chloroplast", "explanation": "Chloroplasts contain chlorophyll, which captures light energy." },
+  { "id": "q2", "chapter": "life processes", "question": "Which gas is released during photosynthesis?", "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"], "answer": "Oxygen", "explanation": "Water is split and oxygen leaves through the stomata." },
+  { "id": "q3", "chapter": "life processes", "question": "Anaerobic respiration in muscles produces:", "options": ["Ethanol", "Lactic acid", "Glucose", "Starch"], "answer": "Lactic acid", "explanation": "Muscles without enough oxygen produce lactic acid." }
+]

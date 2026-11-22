@@ -1,0 +1,16 @@
+{
+  "name": "bandhu-package-builder",
+  "version": "0.1.0",
+  "description": "Turns raw class material into an encrypted, searchable offline bundle",
+  "type": "commonjs",
+  "scripts": {
+    "build:sample": "node build.js --src sample-package --out dist --embedder dev",
+    "ask:sample": "node query.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.1.2"
+  },
+  "optionalDependencies": {
+    "@xenova/transformers": "^2.17.2"
+  }
+}
