@@ -95,3 +95,5 @@ that part is client-shell-specific. To finish it:
    online to call the revalidate endpoint (e.g. every 30 days) before it locks
    the package again — this is your main anti-piracy lever without requiring
    constant connectivity.
+# Study360
+
